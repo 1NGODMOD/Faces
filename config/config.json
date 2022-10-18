@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDb229001642e5504B14C60E0d74dF30E755dbd4d",
+  "SCAN_LINK": "https://songbird-explorer.flare.network/",
+  "NETWORK": {
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
+  },
+  "NFT_NAME": "Faces",
+  "SYMBOL": "FCS",
+  "MAX_SUPPLY": 12,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Flare",
+  "MARKETPLACE_LINK": "https://songbird-explorer.flare.network/address/0xDb229001642e5504B14C60E0d74dF30E755dbd4d/transactions#address-tabs",
+  "SHOW_BACKGROUND": true
+}
